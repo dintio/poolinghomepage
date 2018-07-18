@@ -6954,3 +6954,8 @@ select:focus {
   .subscription-form .input-round {
     text-align: center; } }
 /** END */
+
+
+::-webkit-scrollbar { 
+  display: none; 
+}
